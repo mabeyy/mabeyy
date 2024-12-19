@@ -56,8 +56,8 @@
 ###
 
 <div align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
-  ![](https://komarev.com/ghpvc/?username=mabeyy.mabeyy)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mabeyy.mabeyy&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mabeyy.mabeyy&left_text=Profile%20views"  />
 </div>
 
 ###
