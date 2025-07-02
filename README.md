@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">🛠 Tech Stack</h4>
+<h4 align="center">🛠 Tech Stack</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
@@ -42,7 +42,7 @@
 
 ###
 
-<h4 align="center">Stats:</h4>
+<h4 align="center">Stats</h4>
 
 ###
 
